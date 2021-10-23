@@ -5,7 +5,3 @@ date: "10/23/2021"
 output: word_document
 ---
 ##This is a markdown file
-```{r}
-summary(cars)
-plot (pressure)
-```
